@@ -1,0 +1,32 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/camera.cpp" "CMakeFiles/OpenGL_API_V5.dir/camera.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/camera.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/main.cpp" "CMakeFiles/OpenGL_API_V5.dir/main.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/main.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/object.cpp" "CMakeFiles/OpenGL_API_V5.dir/object.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/object.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/renderer.cpp" "CMakeFiles/OpenGL_API_V5.dir/renderer.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/renderer.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/shader.cpp" "CMakeFiles/OpenGL_API_V5.dir/shader.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/shader.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/stb_image/stb_image.cpp" "CMakeFiles/OpenGL_API_V5.dir/stb_image/stb_image.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/stb_image/stb_image.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/texture.cpp" "CMakeFiles/OpenGL_API_V5.dir/texture.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/texture.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/uvbuffer.cpp" "CMakeFiles/OpenGL_API_V5.dir/uvbuffer.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/uvbuffer.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/vertexarray.cpp" "CMakeFiles/OpenGL_API_V5.dir/vertexarray.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/vertexarray.cpp.o.d"
+  "/home/FGeniet/ENSG/2026-2027/OpenGL/cours/TP/OpenGL_API_V6/vertexbuffer.cpp" "CMakeFiles/OpenGL_API_V5.dir/vertexbuffer.cpp.o" "gcc" "CMakeFiles/OpenGL_API_V5.dir/vertexbuffer.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
