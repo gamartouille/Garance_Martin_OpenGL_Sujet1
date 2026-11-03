@@ -18,7 +18,7 @@ using namespace std;
 
 int main()
 {
-    string path = "/home/FGeniet/ENSG/2025-2026/OpenGL/cours/TP/OpenGL_API_V6";
+    string path = "/home/formation/Bureau/Garance_OpenGL_aquarium_note/Garance_Martin_OpenGL_Sujet1/corrige_copie";
 /////////////////////////Initialisation de GLFW/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     if(!glfwInit()){
@@ -171,7 +171,7 @@ int main()
         glm::vec2(0.667979f, 1.0f-0.335851f)
     };
 
-    Object o(g_vertex_buffer_data, g_uv_buffer_data, path+"/textures/roche.jpg");
+    Object o(g_vertex_buffer_data, g_uv_buffer_data, path+"/textures/texture.jpg");
 
 
 /////////////////////////Création de la matrice MVP/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -198,6 +198,8 @@ int main()
     //On autorise les tests de profondeur
 
     glEnable(GL_DEPTH_TEST);
+    glEnable(GL_BLEND);
+    glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
     glDepthFunc(GL_LESS);
 
 
