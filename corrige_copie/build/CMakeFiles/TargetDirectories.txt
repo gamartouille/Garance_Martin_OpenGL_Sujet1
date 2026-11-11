@@ -1,7 +1,0 @@
-/home/formation/Bureau/Garance_OpenGL_aquarium_note/Garance_Martin_OpenGL_Sujet1/corrige_copie/build/CMakeFiles/OpenGL_API_V6.dir
-/home/formation/Bureau/Garance_OpenGL_aquarium_note/Garance_Martin_OpenGL_Sujet1/corrige_copie/build/CMakeFiles/edit_cache.dir
-/home/formation/Bureau/Garance_OpenGL_aquarium_note/Garance_Martin_OpenGL_Sujet1/corrige_copie/build/CMakeFiles/rebuild_cache.dir
-/home/formation/Bureau/Garance_OpenGL_aquarium_note/Garance_Martin_OpenGL_Sujet1/corrige_copie/build/CMakeFiles/list_install_components.dir
-/home/formation/Bureau/Garance_OpenGL_aquarium_note/Garance_Martin_OpenGL_Sujet1/corrige_copie/build/CMakeFiles/install.dir
-/home/formation/Bureau/Garance_OpenGL_aquarium_note/Garance_Martin_OpenGL_Sujet1/corrige_copie/build/CMakeFiles/install/local.dir
-/home/formation/Bureau/Garance_OpenGL_aquarium_note/Garance_Martin_OpenGL_Sujet1/corrige_copie/build/CMakeFiles/install/strip.dir
